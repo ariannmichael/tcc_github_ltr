@@ -8,3 +8,6 @@ On this repository we have:
     Test split dataset;
     Models;
     Scores
+
+## Notebooks and CSVs
+[link](https://drive.google.com/file/d/1pMh6iygMbZmh0sBKWWnVy1WtK4q9yHJf/view?usp=sharing)
